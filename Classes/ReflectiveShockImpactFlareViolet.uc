@@ -1,0 +1,7 @@
+class ReflectiveShockImpactFlareViolet extends ReflectiveShockImpactFlare;
+
+defaultproperties
+{
+     mColorRange(0)=(G=0,R=100)
+     mColorRange(1)=(G=0,R=100)
+}
